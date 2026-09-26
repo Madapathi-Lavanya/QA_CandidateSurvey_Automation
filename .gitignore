@@ -1,0 +1,6 @@
+auth.json
+allure-results/
+allure-report/
+screenshots/
+__pycache__/
+*.pyc
